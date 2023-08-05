@@ -1,0 +1,8 @@
+version: '3'
+services:
+  remotes:
+    build:
+      context: .
+    container_name: "remotes"
+    ports:
+      - "127.0.0.1:80:8002"

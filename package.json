@@ -1,0 +1,23 @@
+{
+  "name": "ir-remotes",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "vite build"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azlond/IR-Remotes.git"
+  },
+  "author": "Jan Kaiser",
+  "bugs": {
+    "url": "https://github.com/Azlond/IR-Remotes/issues"
+  },
+  "homepage": "https://github.com/Azlond/IR-Remotes",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  }
+}
