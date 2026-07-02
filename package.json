@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/Azlond/IR-Remotes",
   "dependencies": {
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "typescript": "^5.0.2",
     "vite": "^6.4.3"
   }
